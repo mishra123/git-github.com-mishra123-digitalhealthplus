@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>
+    <meta charset="utf-8"/>
+<title>monitoring-buddy</title>
+<meta name="fb_admins_meta_tag" content=""/>
+<meta name="description" content="HOME"/>
+<link rel="shortcut icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="app10.tam"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="eabb0883-aa3a-4ee2-9cfe-a7e092742d1b"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="3490c1c1-d215-4a36-b021-e4cca25755a0"/>
+<meta http-equiv="X-Wix-Published-Version" content="33"/>
+
+<meta http-equiv="etag" content="65a791d6644c2262267f049d270ac039"/>
+<meta name="robots" content="noindex"/>
+<meta property="og:title" content="monitoring-buddy"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://mishraanoop6.wix.com/monitoring-buddy"/>
+<meta property="og:site_name" content="monitoring-buddy"/>
+<meta property="og:description" content="HOME"/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+
+
+        
+    </head>
+<body>
+    
+        <div class="WixHeader">
+        <a href="http://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" rel="nofollow"><span class="smallMusa">(Wix-Logo) </span>Create a <span class="smallLogo">Wix</span> site!</a> <br/>
+        <a href="http://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" rel="nofollow">100s of templates<br />No coding needed<br /><span class="emphasis spacer">Start now >></span></a>
+    </div> 
+    
+            <header class="container" id="SITE_HEADER" >
+    </header>
+<section class="page" id="c1dmp">
+                <div id="comp-iqq64i7y" itemscope itemtype="http://schema.org/ImageObject" class="image">
+
+            <img src="https://static.wixstatic.com/media/2136a4_6fd6b2f69a17418ebe166290d3b3742f%7Emv2.png_srz_125_128_85_22_0.50_1.20_0.00_png_srz" alt="" title="" itemprop="contentURL" width="125" height="128"/>
+    
+    
+</div>
+
+            <div id="comp-iqlpphrp" class="Text">
+    <h4 class="font_4" style="font-size:59px"><span class="color_14"><span style="font-size:59px"><span style="font-weight:bold">DigiHEALTH Plus</span></span></span></h4>
+
+</div>
+
+
+            <div class="container" id="comp-iqlprcua" >
+            <div id="comp-iqopguoq" class="Text">
+    <h2 class="font_2" style="font-size: 20px;"><span style="font-size:20px;"><span class="color_14">Enter Medicare ID</span></span></h2>
+
+</div>
+
+
+    </div>
+
+            <div class="container" id="comp-ir34qp53" >
+            <div id="comp-ir34qp67" class="Text">
+    <h2 class="font_2" style="font-size: 20px;"><span style="font-size:20px;"><span class="color_14">Enter PIN</span></span></h2>
+
+</div>
+
+
+    </div>
+
+            <a id="comp-iqlpxt31"  href="http://mishraanoop6.wix.com/monitoring-buddy#!blank/zd4ip"  target="_self"  class="Button">Sign In</a>
+
+            <a id="comp-iqq6fz70"  href="http://mishraanoop6.wix.com/monitoring-buddy#!blank/zd4ip"  target="_self"  class="Button">Sign Up</a>
+
+            <div id="comp-iqq6gwrm" class="Text">
+    <h2 class="font_2" style="font-size:25px"><span class="color_14"><span style="font-size:25px"><span style="text-decoration:underline">Having Problem Signing In?</span></span></span></h2>
+
+</div>
+
+
+    </section>
+<footer class="container" id="SITE_FOOTER" >
+    </footer>
+
+    
+        
+        <div class="adFootBox" style="background-color:black">
+        <div class="adFootBox"><div class="siteBanner" ><div class="siteBanner"><div class="wrapper"><div class="bigMusa">(Wix Logo)</div><div class="txt shd" style="color:#fff">This site was created using </div> <div class="txt shd"><a  href="http://www.wix.com?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" style="color:#fff"> WIX.com. </a></div> <div class="txt shd" style="color:#fff"> Create your own for FREE <span class="emphasis"> >></span></div></div></div></div></div>
+    </div>
+</body>
+</html>
